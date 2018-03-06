@@ -1,0 +1,49 @@
+.ui.borderless.topmenu.menu {
+  padding: 50px;
+  background-color: #121212;
+  box-shadow: none;
+  border: none;
+  margin: 0px;
+}
+
+.ui.borderless.toptopmenu.menu {
+  padding: 10px;
+  background-color: #000;
+  box-shadow: none;
+  border: none;
+}
+
+.fitted.orange.item, .text.welcome {
+  color: rgb(199, 154, 60);
+}
+
+.text {
+  color: #b2d9db;
+}
+
+
+.text.welcome  {
+  padding-top: 20px;
+  padding-left: 160px;
+  font-size: 17px;
+}
+
+.text.des{
+  color: #FFFFFF;
+  padding-top: 20px;
+  padding-left: 160px;
+  font-size: 17px;
+}
+
+body{
+  background-color: #000;
+  color: rgb(199, 154, 60);
+}
+
+.ui.centered.image {
+  padding: 20px;
+}
+
+.background{
+  background-color: black;
+}
